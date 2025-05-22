@@ -50,8 +50,11 @@ studying backend developer on https://untref.edu.ar/
 
 </td><td valign="top" width="33%">
 
-
-
+### Ciberseguridad  
+<div align="center">  
+<a href="https://www.oracle.com/ar/virtualization/virtualbox/" target="_blank"><img style="margin: 10px" src="https://www.oracle.com/a/ocom/img/rh03v3fa-virtualbox.jpg" alt="virtualBox" height="50" /></a>
+<a href="https://www.netacad.com/es/cisco-packet-tracer" target="_blank"><img style="margin: 10px" src="https://www.netacad.com/sfa-assets/images/svg/netacad_logo_black.svg" alt="cisco" height="35" /></a>  
+</div>
 </td></tr></table>  
 
 <br/>  
