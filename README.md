@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Sara , a full-time fronted developer ✍️  since 2023💪</div>  
+### <div align="center">I'm Sara , fronted-backend developer ✍️  since 2023💪</div>  
   
 
 - 🔭 I’m currently l
-studying backend developer on https://untref.edu.ar/  
+studying cybersecurity developer on https://untref.edu.ar/  
   
 
-- 🔭 I’m currently l learning relational database with SQL language  
+- 🔭 I’m currently l learning studying types of networks.  
   
 
 <br/>  
